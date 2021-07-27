@@ -1,6 +1,6 @@
 {
   "name": "fast-temp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Initialize a project with templates automatically",
   "main": "index.js",
   "scripts": {
