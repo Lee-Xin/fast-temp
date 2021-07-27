@@ -1,6 +1,6 @@
 {
   "name": "fast-temp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Initialize a project with templates automatically",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "bin": {
     "temp": "./bin/init.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "fs": "^0.0.1-security",
     "chalk": "^4.1.1",
     "commander": "^8.0.0",
@@ -19,6 +19,5 @@
     "bluebird": "^3.7.2"
   },
   "author": "lx",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
