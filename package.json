@@ -1,0 +1,24 @@
+{
+  "name": "fast-temp",
+  "version": "0.0.1",
+  "description": "Initialize a project with templates automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "project": "./bin/init.js"
+  },
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "inquirer": "^8.1.2",
+    "ora": "^5.4.1",
+    "download-git-repo": "^3.0.2",
+    "bluebird": "^3.7.2"
+  },
+  "author": "lx",
+  "license": "ISC",
+  "dependencies": {}
+}
